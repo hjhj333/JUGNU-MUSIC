@@ -2,8 +2,8 @@ const { Colors } = require("discord.js");
 
 const defaultSettings = {
   TOKEN: process.env.TOKEN || "BOT_TOKEN",
-  PREFIX: process.env.PREFIX || "BOT_PREFIX",
-  MONGO_URL: process.env.MONGO_URL || "MONGO_URL",
+  PREFIX: process.env.PREFIX || "b",
+  MONGO_URL: process.env.MONGO_URL || "mongodb+srv://Rayzmusic:music@cluster0.rhzwp8e.mongodb.net/?retryWrites=true&w=majority",
 };
 
 const embedSettings = {
