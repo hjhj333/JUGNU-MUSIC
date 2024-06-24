@@ -10,7 +10,7 @@ client.once("ready", async () => {
 
     // Set bot activity
     client.user.setActivity({
-      name: `By @kabirjaipal`,
+      name: `Muffinie`,
       type: ActivityType.Watching,
     });
 
