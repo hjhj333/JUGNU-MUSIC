@@ -9,12 +9,12 @@ const defaultSettings = {
 const embedSettings = {
   color: Colors.Blurple,
   wrongcolor: Colors.Red,
-  footertext: "By Kabir Jaipal | Fire Bird",
+  footertext: "Tiệm Cái Bánh | Muffinie",
 };
 
 const emojiSettings = {
-  ERROR: "<a:wrong:1158264214960488468>",
-  SUCCESS: "<a:check:1158261895111913554>",
+  ERROR: "<a:error:1252303784475099197>",
+  SUCCESS: "<a:8s_tick2:906761855735832596>",
   disabled: "🔴",
   enabled: "🟢",
   cleared: "🧹",
